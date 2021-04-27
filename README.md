@@ -1,26 +1,33 @@
 # Fingent
 Student Management
 
-Copy the files in fingent-interview folder to your htdocs folder inside xampp.
+Clone this repository inside your xampp/htdocs folder.
+
+It will create a folder named Fingent.
+
+Open Fingent folder and Extract the zip file to Fingent folder itself.
 
 Change database name and credentials in .env file.
 
-Run composer install before run the project.
+Run composer install inside the Fingent folder.
 
-
-You can create database tables using
+Create database tables using following artisan command
 
 php artisan:migrate
 
-You can insert dummy data using
+Create dummy data using following artisan command
 
 php artisan db:seed
 
+Now the database tables and dummy data for the application is ready.
 
-Student List Url
+Create virtual host for the application and run the following urls
+
+
+**Student List Url**
 
 /students
 
-Mark List Url
+**Mark List Url**
 
 /marks
