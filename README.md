@@ -1,7 +1,7 @@
 # Fingent
 Student Management
 
-Copy the files in Fingent folder to your htdocs folder inside xampp.
+Copy the files in fingent-interview folder to your htdocs folder inside xampp.
 
 Change database name credentials in .env file.
 
