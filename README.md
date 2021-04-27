@@ -13,11 +13,11 @@ Run composer install inside the Fingent folder.
 
 Create database tables using following artisan command
 
-php artisan:migrate
+**php artisan:migrate**
 
 Create dummy data using following artisan command
 
-php artisan db:seed
+**php artisan db:seed**
 
 Now the database tables and dummy data for the application is ready.
 
