@@ -15,3 +15,12 @@ php artisan:migrate
 You can insert dummy data using
 
 php artisan db:seed
+
+
+Student List Url
+
+/students
+
+Mark List Url
+
+/marks
