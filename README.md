@@ -9,7 +9,9 @@ Run composer install before run the project.
 
 
 You can create database tables using
+
 php artisan:migrate
 
 You can insert dummy data using
+
 php artisan db:seed
