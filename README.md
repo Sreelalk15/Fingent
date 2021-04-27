@@ -3,7 +3,7 @@ Student Management
 
 Copy the files in fingent-interview folder to your htdocs folder inside xampp.
 
-Change database name credentials in .env file.
+Change database name and credentials in .env file.
 
 Run composer install before run the project.
 
