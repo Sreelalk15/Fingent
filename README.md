@@ -1,4 +1,4 @@
-# Fingent
+# Student Management
 Student Management
 
 Clone this repository inside your xampp/htdocs folder.
